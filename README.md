@@ -30,4 +30,3 @@ In this walkthrough, we make the very popular game 2048 in JavaScript, HTML and 
 - setInterval()
 
 If you did like this video, please do Like and [Subscribe](youtube.com/aniakubow) so I know to make others like this!
-# 2048
